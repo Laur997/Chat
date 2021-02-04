@@ -1,4 +1,4 @@
-// Copyright Siemens
+
 #ifndef UNITTESTS_FAKE_SEND_H
 #define UNITTESTS_FAKE_SEND_H
 #include "../interface/Interface_send.h"

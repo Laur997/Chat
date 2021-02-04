@@ -1,4 +1,4 @@
-// Copyright Siemens
+
 #include "Real_send.h"
 #include <sys/socket.h>
 #include <iostream>

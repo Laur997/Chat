@@ -1,4 +1,3 @@
-// Copyright Siemens
 #include "../interface/Interface_send.h"
 #include "Fake_send.h"
 #include "../Server.h"

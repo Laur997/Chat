@@ -1,4 +1,4 @@
-// Copyright Siemens
+
 #ifndef UNITTESTS_INTERFACE_SEND
 #define UNITTESTS_INTERFACE_SEND
 
