@@ -1,4 +1,4 @@
-// Copyright Siemens
+
 #include "User.h"
 #include <sys/socket.h>
 #include <iostream>

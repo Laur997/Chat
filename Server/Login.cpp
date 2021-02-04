@@ -1,4 +1,3 @@
-// Copyright Siemens
 #include "Login.h"
 #include "Utils.h"
 #include <sys/socket.h>

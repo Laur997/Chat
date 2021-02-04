@@ -1,4 +1,3 @@
-// Copyright Siemens
 
 #ifndef EASYCHAT_SERVER_SERVER_H
 #define EASYCHAT_SERVER_SERVER_H

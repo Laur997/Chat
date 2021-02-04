@@ -1,4 +1,4 @@
-// Copyright Siemens
+
 #include "Utils.h"
 #include <unistd.h>
 #include <stdio.h>

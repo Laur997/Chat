@@ -1,4 +1,3 @@
-// Copyright Siemens
 #include "Server.h"
 #include "Utils.h"
 #include "Login.h"

@@ -1,5 +1,3 @@
-// Copyright Siemens
-
 #include "Channel.h"
 #include <iostream>
 #include <vector>

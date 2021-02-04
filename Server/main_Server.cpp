@@ -1,5 +1,5 @@
-// Copyright Siemens
-/*! \mainpage Easychat Index Page
+
+/*! \mainpage Chat Index Page
  *
  * \section intro_sec Introduction
  *

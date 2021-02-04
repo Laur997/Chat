@@ -1,4 +1,3 @@
-// Copyright Siemens
 #ifndef EASYCHAT_SERVER_CHANNEL_H
 #define EASYCHAT_SERVER_CHANNEL_H
 #include <iostream>

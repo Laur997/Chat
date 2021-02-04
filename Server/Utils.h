@@ -1,4 +1,4 @@
-// Copyright Siemens
+
 #ifndef EASYCHAT_SERVER_UTILS_H
 #define EASYCHAT_SERVER_UTILS_H
 #include <vector>

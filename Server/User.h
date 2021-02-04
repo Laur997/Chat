@@ -1,4 +1,4 @@
-// Copyright Siemens
+
 #ifndef EASYCHAT_SERVER_USER_H
 #define EASYCHAT_SERVER_USER_H
 #include <string>

@@ -1,4 +1,3 @@
-// Copyright Siemens
 #ifndef EASYCHAT_SERVER_DB_LOGIN_H
 #define EASYCHAT_SERVER_DB_LOGIN_H
 #include <iostream>

@@ -1,4 +1,3 @@
-// Copyright Siemens
 #include "DB_Login.h"
 #include <mysql.h>
 #include <unistd.h>

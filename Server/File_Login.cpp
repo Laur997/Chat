@@ -1,4 +1,3 @@
-// Copyright Siemens
 #include <unistd.h>
 #include <errno.h>
 #include <sys/socket.h>
